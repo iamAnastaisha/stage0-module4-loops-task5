@@ -10,6 +10,7 @@ public class Cross {
                     System.out.print(" ");
                 }
             }
+            System.out.println("");
         }
     }
 }

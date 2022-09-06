@@ -10,6 +10,7 @@ public class Rectangle {
                     System.out.print(" ");
                 }
             }
+            System.out.println("");
         }
     }
 }
